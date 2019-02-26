@@ -61,10 +61,10 @@ a:hover {
     /* font-weight: bold; */
 }
 
-a:active {
+/* a:active {
     text-decoration: underline;
     font-weight: bold;
-}
+} */
 
 .navbuttonpipe {
     color: #edf1ec;
